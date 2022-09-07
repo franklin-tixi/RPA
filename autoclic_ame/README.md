@@ -1,7 +1,8 @@
 # python-selenium
 Script para realizar tareas automatizadas
-Se debe instalar las siguietes import
-pip3 install pywhatkit
+Se debe instalar los siguietes import
+!pip3 install selenium
+!pip3 install webdriver_manager
 
 # Para enviar mensajes via telegram
 pip3 install telebot

@@ -2,10 +2,10 @@
 176,Aguarico,17
 119,Alamor,12
 36,Alausí,5
-78,Alfredo Baquerizo Moreno,10
+78,AlfredoBaquerizoMoreno,10
 112,Amaluza,12
 216,Ambato,23
-102,Antonio Ante,11
+102,AntonioAnte,11
 180,Arajuno,18
 171,Archidona,16
 198,Arenal,19
@@ -19,23 +19,23 @@
 79,Balao,10
 55,Balsas,7
 80,Balzar,10
-217,Baños de Agua Santa,23
+217,BañosdeAguaSanta,23
 24,Biblián,3
 30,Bolívar,4
-126,Buena Fe,13
+126,BuenaFe,13
 137,Calceta,14
 16,Caluma,2
 25,Cañar,3
 108,Cariamanga,12
-172,Carlos Julio Arosemena Tola,16
+172,CarlosJulioArosemenaTola,16
 209,Cascales,22
 117,Catacocha,12
 109,Catamayo,12
 184,Cayambe,19
 110,Celica,12
-225,Centinela del Cóndor,24
-199,Cerro Chuquiragua,19
-203,Cerro Negro,19
+225,CentineladelCóndor,24
+199,CerroChuquiragua,19
+203,CerroNegro,19
 218,Cevallos,23
 192,Chacana,19
 111,Chaguarpamba,12
@@ -47,11 +47,11 @@
 138,Chone,14
 1,Chordeleg,1
 38,Chunchi,5
-193,Chusalongo Chico,19
+193,ChusalongoChico,19
 81,Colimes,10
 39,Colta,5
 187,Corazón,19
-82,Coronel Marcelino Maridueña,10
+82,CoronelMarcelinoMaridueña,10
 103,Cotacachi,11
 2,Cuenca,1
 40,Cumandá,5
@@ -60,25 +60,25 @@
 26,Déleg,3
 84,Durán,10
 19,Echeandía,2
-139,El Carmen,14
-173,El Chaco,16
-85,El Empalme,10
-57,El Guabo,7
-68,Eloy Alfaro,8
-3,El Pan,1
-227,El Pangui,24
-27,El Tambo,3
-86,El Triunfo,10
+139,ElCarmen,14
+173,ElChaco,16
+85,ElEmpalme,10
+57,ElGuabo,7
+68,EloyAlfaro,8
+3,ElPan,1
+227,ElPangui,24
+27,ElTambo,3
+86,ElTriunfo,10
 69,Esmeraldas,8
 31,Espejo,4
-140,Flavio Alfaro,14
-202,Fuya Fuya,19
-87,General Antonio Elizalde,10
+140,FlavioAlfaro,14
+202,FuyaFuya,19
+87,GeneralAntonioElizalde,10
 4,Girón,1
-211,Gonzalo Pizarro,22
+211,GonzaloPizarro,22
 113,Gonzanamá,12
 5,Guachapala,1
-188,Guagua Pichincha,19
+188,GuaguaPichincha,19
 6,Gualaceo,1
 159,Gualaquiza,15
 41,Guamote,5
@@ -88,28 +88,28 @@
 160,Huamboya,15
 58,Huaquillas,7
 104,Ibarra,11
-185,Illiniza Norte,19
+185,IllinizaNorte,19
 74,Isabela,9
-88,Isidro Ayora,10
+88,IsidroAyora,10
 141,Jama,14
 142,Jaramijó,14
 143,Jipijapa,14
 200,Juña,19
 144,Junín,14
-207,La Concordia,21
+207,LaConcordia,21
 195,Ladrillos,19
-212,Lago Agrio,22
-178,La Joya de los Sachas,17
-204,La Libertad,20
-46,La Maná,6
-59,"Las Lajas	",7
-21,Las Naves,2
+212,LagoAgrio,22
+178,LaJoyadelosSachas,17
+204,LaLibertad,20
+46,LaManá,6
+"59,LasLajas	,7"
+21,LasNaves,2
 47,Latacunga,6
-28,La Troncal,3
-161,Limón Indanza,15
+28,LaTroncal,3
+161,LimónIndanza,15
 162,Logroño,15
 114,Loja,12
-89,Lomas de Sargentillo,10
+89,LomasdeSargentillo,10
 179,Loreto,17
 115,Macará,12
 60,Machala,7
@@ -135,8 +135,8 @@
 8,Oña,1
 177,Orellana,17
 105,Otavalo,11
-164,Pablo Sexto,15
-194,Padre Encantado,19
+164,PabloSexto,15
+194,PadreEncantado,19
 148,Paján,14
 229,Palanda,24
 129,Palenque,13
@@ -150,7 +150,7 @@
 220,Patate,23
 9,Paute,1
 149,Pedernales,14
-95,Pedro Carbo,10
+95,PedroCarbo,10
 221,Pelileo,23
 44,Penipe,5
 150,Pichincha,14
@@ -160,12 +160,12 @@
 118,Pindal,12
 201,Pishanga,19
 96,Playas,10
-10,Ponce Enriquez,1
+10,PonceEnriquez,1
 64,Portovelo,7
 151,Portoviejo,14
 11,Pucará,1
 130,Puebloviejo,13
-152,Puerto López,14
+152,PuertoLópez,14
 49,Pujilí,6
 196,Puntas,19
 213,Putumayo,22
@@ -179,23 +179,23 @@
 45,Riobamba,5
 72,Rioverde,8
 153,Rocafuerte,14
-190,Ruco Pichincha,19
+190,RucoPichincha,19
 189,Rumiñahui,19
 50,Salcedo,6
 205,Salinas,20
 97,Salitre,10
 98,Samborondón,10
-75,San Cristóbal,9
-12,San Fernando,1
-166,San Juan Bosco,15
-73,San Lorenzo,8
-22,San Miguel,2
-107,San Miguel de Urcuquí,11
-34,San Pedro de Huaca,4
-155,Santa Ana,14
-183,Santa Clara,18
-76,Santa Cruz,9
-206,Santa Elena,20
-13,Santa Isabel,1
-99,Santa Lucía,10
-65,Santa Rosa,7
+75,SanCristóbal,9
+12,SanFernando,1
+166,SanJuanBosco,15
+73,SanLorenzo,8
+22,SanMiguel,2
+107,SanMigueldeUrcuquí,11
+34,SanPedrodeHuaca,4
+155,SantaAna,14
+183,SantaClara,18
+76,SantaCruz,9
+206,SantaElena,20
+13,SantaIsabel,1
+99,SantaLucía,10
+65,SantaRosa,7
